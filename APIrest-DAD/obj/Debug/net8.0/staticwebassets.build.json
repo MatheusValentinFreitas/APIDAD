@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fJx1aNaOMe5OENrPB8Jxbkfevw2yFcBwlHwXtNVQucI=",
+  "Source": "APIrest-DAD",
+  "BasePath": "_content/APIrest-DAD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
